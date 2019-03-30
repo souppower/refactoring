@@ -13,7 +13,7 @@ This is how I'm training myself with Martin Fowler's Refactoring book.
 - [ ] Decompose Conditional
 - [ ] Encapsulate Collection
 - [ ] Encapsulate Record
-- [ ] Encapsulate Variable
+- [x] Encapsulate Variable
 - [ ] Extract Class
 - [ ] Extract Function
 - [x] Extract Superclass
