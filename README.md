@@ -21,7 +21,7 @@ This is how I'm training myself with Martin Fowler's Refactoring book.
 - [ ] Hide Delegate
 - [ ] Inline Class
 - [x] Inline Function
-- [ ] Inline Variable
+- [x] Inline Variable
 - [ ] Introduce Assertion
 - [ ] Introduce Parameter Object
 - [ ] Introduce Special Case
