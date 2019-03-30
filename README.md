@@ -3,7 +3,7 @@
 This is a Refactoring Dojo.
 This is how I'm training myself with Martin Fowler's Refactoring book.
 
-- [ ] Change Function Declaration
+- [x] Change Function Declaration
 - [ ] Change Reference to Value
 - [ ] Change Value to Reference
 - [ ] Collapse Hierarchy
