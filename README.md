@@ -42,7 +42,7 @@ This is how I'm training myself with Martin Fowler's Refactoring book.
 - [ ] Remove Setting Method
 - [ ] Remove Subclass
 - [ ] Rename Field
-- [ ] Rename Variable
+- [x] Rename Variable
 - [ ] Replace Command with Function
 - [ ] Replace Conditional with Polymorphism
 - [ ] Replace Constructor with Factory Function
