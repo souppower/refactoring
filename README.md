@@ -60,7 +60,7 @@ This is how I'm training myself with Martin Fowler's Refactoring book.
 - [ ] Replace Query with Parameter
 - [ ] Replace Subclass with Delegate
 - [ ] Replace Superclass with Delegate
-- [ ] Replace Temp with Query
+- [x] Replace Temp with Query
 - [ ] Replace Type Code with Subclasses
 - [ ] Return Modified Value†
 - [ ] Separate Query from Modifier
