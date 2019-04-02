@@ -14,7 +14,7 @@ This is how I'm training myself with Martin Fowler's Refactoring book.
 - [ ] Encapsulate Collection
 - [ ] Encapsulate Record
 - [x] Encapsulate Variable
-- [ ] Extract Class
+- [x] Extract Class
 - [ ] Extract Function
 - [x] Extract Superclass
 - [x] Extract Variable
