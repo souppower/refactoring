@@ -19,7 +19,7 @@ This is how I'm training myself with Martin Fowler's Refactoring book.
 - [x] Extract Superclass
 - [x] Extract Variable
 - [ ] Hide Delegate
-- [ ] Inline Class
+- [x] Inline Class
 - [x] Inline Function
 - [x] Inline Variable
 - [ ] Introduce Assertion
