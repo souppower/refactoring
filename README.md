@@ -18,7 +18,7 @@ This is how I'm training myself with Martin Fowler's Refactoring book.
 - [ ] Extract Function
 - [x] Extract Superclass
 - [x] Extract Variable
-- [ ] Hide Delegate
+- [x] Hide Delegate
 - [x] Inline Class
 - [x] Inline Function
 - [x] Inline Variable
