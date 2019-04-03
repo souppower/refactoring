@@ -38,7 +38,7 @@ This is how I'm training myself with Martin Fowler's Refactoring book.
 - [ ] Push Down Method
 - [ ] Remove Dead Code
 - [ ] Remove Flag Argument
-- [ ] Remove Middle Man
+- [x] Remove Middle Man
 - [ ] Remove Setting Method
 - [ ] Remove Subclass
 - [ ] Rename Field
