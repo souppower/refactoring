@@ -26,7 +26,7 @@ This is how I'm training myself with Martin Fowler's Refactoring book.
 - [x] Introduce Parameter Object
 - [ ] Introduce Special Case
 - [ ] Move Field
-- [ ] Move Function
+- [x] Move Function
 - [ ] Move Statements into Function
 - [ ] Move Statements to Callers
 - [ ] Parameterize Function
